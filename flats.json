@@ -10,6 +10,16 @@
     "lng": 168.3953949
   },
   {
+    "id": 101,
+    "name": "Southland Girls' High School",
+    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/southland-7894405.jpg",
+    "rating": "3.3",
+    "price": 165,
+    "priceCurrency": "NZD",
+    "lat": -46.4161468,
+    "lng": 168.3953949
+  },
+  {
     "id": 145,
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/flat1.jpg",
