@@ -1,5 +1,15 @@
 [
   {
+    "id": 100,
+    "name": "Verdon College",
+    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/verdon-prospectus-for-website-2015-21.jpg",
+    "rating": "3.9",
+    "price": 164,
+    "priceCurrency": "NZD",
+    "lat": -46.4107431,
+    "lng": 168.3562596
+  },
+  {
     "id": 145,
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/flat1.jpg",
