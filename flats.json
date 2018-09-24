@@ -3,7 +3,7 @@
     "id": 100,
     "name": "Verdon College",
     "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/verdon-prospectus-for-website-2015-21.jpg",
-    "rating": "3.9",
+    "rating": 3.9,
     "price": 164,
     "priceCurrency": "NZD",
     "lat": -46.4161468,
@@ -13,29 +13,31 @@
     "id": 101,
     "name": "Southland Girls' High School",
     "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/southland-7894405.jpg",
-    "rating": "3.3",
+    "rating": 3.3,
     "price": 165,
     "priceCurrency": "NZD",
     "lat": -46.4177933,
     "lng": 168.3653303
   },
   {
-    "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/flat1.jpg",
+    "id": 103,
+    "name": "Newfield Park School",
+    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/newpark-1449795730738.jpg",
+    "rating": 3.5,
     "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "priceCurrency": "NZD",
+    "lat": -46.420810,
+    "lng": 168.381167
   },
   {
-    "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/flat2.jpg",
+    "id": 104,
+    "name": "Fernworth Primary School",
+    "imageUrl": "https://raw.githubusercontent.com/konqa/flats-boilerplate/master/images/fentworth-9078668_600x400.jpg",
+    "rating": 3.9,
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "NZD",
+    "lat": -46.4270723,
+    "lng": 168.3684052
   },
   {
     "id": 201,
